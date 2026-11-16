@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Datontech/Datontech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Datontech
 
-Here are some ideas to get you started:
+🔐 Cybersecurity Student | IT Enthusiast | Tech Explorer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Cybersecurity, Network Security, Ethical Hacking & Linux.
+- 🔭 Exploring hands-on cybersecurity labs and practical IT projects.
+- 💻 Interested in Networking, Penetration Testing and Digital Security.
+- 👯 Open to collaborating on cybersecurity and technology projects.
+- 📚 Always learning, building and improving my technical skills.
+- 📫 Let's connect and grow together!
+
+### 🛠️ Technologies & Tools
+- Linux | Kali Linux
+- Networking | Cisco Packet Tracer
+- Python | Git | GitHub
+- Cybersecurity Fundamentals
+
+### ⚡ Motto
+*Learn. Explore. Secure. Repeat.*
